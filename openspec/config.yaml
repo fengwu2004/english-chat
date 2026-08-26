@@ -1,0 +1,23 @@
+schema: spec-driven
+
+context: |
+  Domain: personal English writing and speaking practice for a Chinese-speaking learner.
+  Goal: activate a locked list of 355 long-studied phrasal and multi-word verbs.
+  Default batch: five Chinese-to-English items with one distinct target per item.
+  Complete the full pass before wrong-answer-only review; do not repeat within a pass.
+  Correct natural use leaves the active pool; errors enter the error pool for later review.
+  Prefer natural contemporary American English and gradually reduce prompting.
+  Daily lessons use the existing specs directly; OpenSpec changes alter the coaching system itself.
+
+rules:
+  proposal:
+    - State the learning problem, measurable learner outcome, and affected capability.
+    - Keep the proposal focused on changing the coaching system, not running a daily lesson.
+  specs:
+    - Use SHALL requirements with at least one Given/When/Then-style scenario per requirement.
+    - Make vocabulary-pool transitions and progress-record updates testable.
+  design:
+    - Preserve the locked-list and complete-pass workflow unless the proposal explicitly changes it.
+  tasks:
+    - Include validation of affected Markdown pools, logs, and lesson behavior.
+
