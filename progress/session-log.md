@@ -22,3 +22,16 @@ Append new sessions below. Preserve previous entries.
 | 2026-08-26 | Contextualized phrasal-verb translation, batch 11 | 5 | 5 | 0 | Continue with new targets; reinforce time clauses and natural openings. |
 | 2026-08-26 | Contextualized phrasal-verb translation, batch 12 | 5 | 5 | 0 | Continue with new targets; reinforce spelling and meeting prepositions. |
 | 2026-08-26 | Contextualized phrasal-verb translation, batch 13 | 5 | 4 | 1 | Continue the active-pool pass; distinguish target synonyms and preserve prompt meaning. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 14 | 5 | 5 | 0 | Continue the active-pool pass; focus on collocations and preserving source meaning. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 15 | 5 | 4 | 1 | Continue the active-pool pass; practice result/change complements with “into.” |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 16 | 5 | 4 | 1 | Continue the active-pool pass; reinforce transitive phrasal verbs without extra particles. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 17 | 5 | 5 | 0 | Continue the active-pool pass; reinforce spelling and avoid invented verb combinations. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 18 | 5 | 4 | 1 | Continue the active-pool pass; reinforce past tense and natural noun collocations. |
+| 2026-08-27 | Spontaneous use within translation batch 18 | 1 | 1 | 0 | Recheck “find out” without prompting in a later cycle. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 19 | 5 | 5 | 0 | Continue the active-pool pass; focus on profession/person forms and concise wording. |
+| 2026-08-27 | Spontaneous use within translation batch 19 | 1 | 1 | 0 | Recheck “help out” without prompting in a later cycle. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 20 | 5 | 3 | 2 | Continue the active-pool pass; reinforce phrasal-verb complements and launch vocabulary. |
+| 2026-08-27 | Additional spontaneous uses within batch 20 | 2 | 1 | 1 | Preserve “look into” as spontaneous; review “pull out” after the active pass. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 21 | 5 | 3 | 2 | Continue the active-pool pass; reinforce tense and purpose expressions. |
+| 2026-08-27 | Contextualized phrasal-verb translation, batch 22 | 5 | 3 | 2 | Continue the active-pool pass; distinguish arise, unfold, delay, and restrain meanings. |
+| 2026-08-27 | Additional spontaneous uses within batch 22 | 2 | 0 | 2 | Review “hold back” and “play out” after the active pass. |

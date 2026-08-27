@@ -62,3 +62,42 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | go through | 2026-08-26 | Controlled translation | prompted | The team went through a very difficult time last year. |
 | keep up with | 2026-08-26 | Controlled translation | prompted | It's hard to keep up with all the changes. |
 | make up for | 2026-08-26 | Controlled translation | prompted | An extra holiday made up for working after hour on weekends. |
+| be against | 2026-08-27 | Controlled translation | prompted | I am against changing schedule without asking the team's ideas. |
+| call for | 2026-08-27 | Controlled translation | prompted | It calls for immediate action in the situation. |
+| come down to | 2026-08-27 | Controlled translation | prompted | Finally, it comes down to cost. |
+| rely on | 2026-08-27 | Controlled translation | prompted | The small company relies on old clients. |
+| stick to | 2026-08-27 | Controlled translation | prompted | We need to stick to plan when it is made. |
+| add up | 2026-08-27 | Controlled translation | prompted | These numbers don't add up. |
+| get through | 2026-08-27 | Controlled translation | prompted | I haven't gotten through to your team. |
+| look after | 2026-08-27 | Controlled translation | prompted | Could you help me look after my dog this weekend? |
+| turn out | 2026-08-27 | Controlled translation | prompted | The event turned out to be better than we expected. |
+| act out | 2026-08-27 | Controlled translation | prompted | The kid acted out because of bad temp. |
+| break up | 2026-08-27 | Controlled translation | prompted | They broke up after 3 years. |
+| come around | 2026-08-27 | Controlled translation | prompted | She didn't agree with the idea at first, but she came around in the end. |
+| give up | 2026-08-27 | Controlled translation | prompted | Don't give up when you fail the first try. |
+| back away | 2026-08-27 | Controlled translation | prompted | He backed away when the dog was starting to goar. |
+| break into | 2026-08-27 | Controlled translation | prompted | Someone broke into the office last night. |
+| come forward | 2026-08-27 | Controlled translation | prompted | One witness came forward to give forward new information. |
+| hand over | 2026-08-27 | Controlled translation | prompted | The police asked him to hand over his phone. |
+| throw away | 2026-08-27 | Controlled translation | prompted | Don't throw away the recipet. |
+| back off | 2026-08-27 | Controlled translation | prompted | He asked the journalists to back off. |
+| break off | 2026-08-27 | Controlled translation | prompted | The both side broke off the negotiation without reaching an agreement. |
+| come up against | 2026-08-27 | Controlled translation | prompted | The project came up against serious disagreement from local people. |
+| take apart | 2026-08-27 | Controlled translation | prompted | The techanicals took apart the machine to find out the reason of the breakdown. |
+| find out | 2026-08-27 | Controlled translation | spontaneous | The techanicals took apart the machine to find out the reason of the breakdown. |
+| bring in | 2026-08-27 | Controlled translation | prompted | The company brought in a profession to help out with working out the issue. |
+| close down | 2026-08-27 | Controlled translation | prompted | The factory closed down because of the decreased sales last year. |
+| get away with | 2026-08-27 | Controlled translation | prompted | He thought he could get away with lying. |
+| put forward | 2026-08-27 | Controlled translation | prompted | She put forward a practical solution in the meeting. |
+| see through | 2026-08-27 | Controlled translation | prompted | The manager immediately saw through his excuse. |
+| help out | 2026-08-27 | Controlled translation | spontaneous | The company brought in a profession to help out with working out the issue. |
+| call on | 2026-08-27 | Controlled translation | prompted | The boss called on me to explain the data. |
+| put aside | 2026-08-27 | Controlled translation | prompted | We need to put aside the argument and focus on work. |
+| report back | 2026-08-27 | Controlled translation | prompted | Please look into the problem and report back by Friday. |
+| look into | 2026-08-27 | Controlled translation | spontaneous | Please look into the problem and report back by Friday. |
+| back out | 2026-08-27 | Controlled translation | prompted | He agreed to help out, but he backed out at the last minute. |
+| come off | 2026-08-27 | Controlled translation | prompted | The demonstration came off better than we expected. |
+| go along with | 2026-08-27 | Controlled translation | prompted | I don't agree with the decision, but I will go along with it. |
+| be after | 2026-08-27 | Controlled translation | prompted | What are you really after? |
+| call out | 2026-08-27 | Controlled translation | prompted | The manager called him out for holding back important mistakes. |
+| go for | 2026-08-27 | Controlled translation | prompted | If you want to go for the job, just be brave. |
