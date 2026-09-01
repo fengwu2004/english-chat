@@ -101,3 +101,66 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | be after | 2026-08-27 | Controlled translation | prompted | What are you really after? |
 | call out | 2026-08-27 | Controlled translation | prompted | The manager called him out for holding back important mistakes. |
 | go for | 2026-08-27 | Controlled translation | prompted | If you want to go for the job, just be brave. |
+| add up to | 2026-08-28 | Controlled translation | prompted | All the charges added up to 5000 dollar. |
+| break through | 2026-08-28 | Controlled translation | prompted | The team finally broke through the technical barrier. |
+| bring out | 2026-08-28 | Controlled translation | prompted | The new light brought out the warm color in the room. |
+| come down | 2026-08-28 | Controlled translation | prompted | The price came down after peak season. |
+| break away | 2026-08-31 | Controlled translation | prompted | The runner broke away from the other part of the team during the last round. |
+| come out | 2026-08-31 | Controlled translation | prompted | The complete report will come out next week. |
+| get back | 2026-08-31 | Controlled translation | prompted | When did you get back from work yesterday? |
+| put on | 2026-08-31 | Controlled translation | prompted | Put on your coat before getting out. |
+| turn into | 2026-08-31 | Controlled translation | prompted | The old reporisity has been turned into an art center. |
+| come back | 2026-08-31 | Controlled translation | prompted | He came back last night from the business trip. |
+| get together | 2026-08-31 | Controlled translation | prompted | Let's get together and have some coffee next week. |
+| move on | 2026-08-31 | Controlled translation | prompted | After discussing the problem for an hour, we moved on to the next topic. |
+| wake up | 2026-08-31 | Controlled translation | prompted | I woke up before the alarm clock went off. |
+| break in | 2026-08-31 | Controlled translation | prompted | The theft tried to break in, but the alarm went off. |
+| come over | 2026-08-31 | Controlled translation | prompted | Would you like to come over for dinner this Friday? |
+| get by | 2026-08-31 | Controlled translation | prompted | His salary isn't high, but it is just enough for him to get by. |
+| hang on | 2026-08-31 | Controlled translation | prompted | Hang on, let me look up the schedule. |
+| cheer up | 2026-08-31 | Controlled translation | prompted | The good news cheered her up. |
+| come in | 2026-08-31 | Controlled translation | prompted | Please come in and have a seat. |
+| keep on | 2026-08-31 | Controlled translation | prompted | Although she is very tired, she keeps on working. |
+| send out | 2026-08-31 | Controlled translation | prompted | The company sent out a email to all the staff. |
+| cross out | 2026-08-31 | Controlled translation | prompted | Cross out the wrong answers and write down the right answers near them. |
+| give away | 2026-08-31 | Controlled translation | prompted | She gave her old clothes away. |
+| put away | 2026-08-31 | Controlled translation | prompted | Put your laptop away before dinner. |
+| write down | 2026-08-31 | Controlled translation | prompted | Write down the address in case of forgetting. |
+| set out | 2026-08-31 | Controlled translation | spontaneous | We need to fill up the gas before setting out for a long trip. |
+| break out | 2026-08-31 | Controlled translation | prompted | A fire broke out suddenly in the kitchen during the mid nigh. |
+| get out of | 2026-08-31 | Controlled translation | prompted | He tried to get out of attending the meeting. |
+| take off | 2026-08-31 | Controlled translation | prompted | The plane took off 20 minute after schedule. |
+| burn out | 2026-08-31 | Controlled translation | prompted | He really burnt out after several months of woking over time. |
+| catch up with | 2026-08-31 | Controlled translation | prompted | I haven't seen Anna for a long time and I need to catch up with her some day. |
+| go around | 2026-08-31 | Controlled translation | prompted | There isn't enough food to go around. |
+| switch off | 2026-08-31 | Controlled translation | prompted | Please switch off the light before leaving. |
+| brush aside | 2026-08-31 | Controlled translation | prompted | The committees brushed our concerns aside without discussing. |
+| come on | 2026-08-31 | Controlled translation | prompted | Come on, we are late. |
+| lay off | 2026-08-31 | Controlled translation | prompted | The company laid off 50 staff last month. |
+| turn up | 2026-08-31 | Controlled translation | prompted | The missing key turned up under the sofa in the end. |
+| come up | 2026-08-31 | Controlled translation | prompted | An unexpected issue came up during the meeting. |
+| get into | 2026-08-31 | Controlled translation | prompted | How did you get into the software industry? |
+| look over | 2026-08-31 | Controlled translation | prompted | Look over the contract before signing it. |
+| put back | 2026-08-31 | Controlled translation | prompted | Please put back the files. |
+| take down | 2026-08-31 | Controlled translation | prompted | Please take down the outdated notice. |
+| get around | 2026-08-31 | Controlled translation | prompted | There is no easy answer to get around the regulation. |
+| look through | 2026-08-31 | Controlled translation | prompted | I looked through the former emails to find out the accessory. |
+| wrap up | 2026-08-31 | Controlled translation | spontaneous | I putting in 3 hours to wrap the project up. |
+| go over | 2026-08-31 | Session interaction | spontaneous | Let us go over all the incorrect questions. |
+| follow up on | 2026-08-31 | Wrong-answer review | spontaneous | I'll follow up on the requests of the client. |
+| get across | 2026-08-31 | Wrong-answer review | spontaneous | She found it hard to get her idea across. |
+| take over | 2026-08-31 | Wrong-answer review | spontaneous | When I am away, Alex will take over the project. |
+| step back | 2026-09-01 | Wrong-answer review | spontaneous | We need to step back and look at a big picture. |
+| look up | 2026-09-01 | Wrong-answer review | spontaneous | I have to look up the work in the dictionary. |
+| play out | 2026-09-01 | Wrong-answer review | spontaneous | We all want to know how the event will eventually play out. |
+| hand out | 2026-09-01 | Wrong-answer review | spontaneous | The teacher handed out the worksheets to everyone. |
+| go off | 2026-09-01 | Wrong-answer review | spontaneous | The alarm clock went off at 6 a.m. |
+| run over | 2026-09-01 | Wrong-answer review | spontaneous | The car nearly ran over a bicyclist. |
+| fill up | 2026-09-01 | Wrong-answer review | spontaneous | We need to fill up the tank before setting out for a long trip. |
+| put out | 2026-09-01 | Wrong-answer review | spontaneous | The firefighters quickly put out the large fire. |
+| stand out | 2026-09-01 | Wrong-answer review | spontaneous | Her bright red coat really made her stand out in the crowd. |
+| give back | 2026-09-01 | Wrong-answer review | spontaneous | I need to give the book back to her. |
+| dig into | 2026-09-01 | Wrong-answer review | spontaneous | The team dug into the data to find out the case of the problem. |
+| put in | 2026-09-01 | Wrong-answer review | spontaneous | I put in 3 hours yesterday to wrap up the work. |
+| take in | 2026-09-01 | Wrong-answer review | spontaneous | There is too much information for me to take in at once. |
+| roll out | 2026-09-01 | Wrong-answer review interaction | spontaneous | We can continue to roll out the new product as the client have approved it. |

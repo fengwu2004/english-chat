@@ -26,3 +26,22 @@
 | 2026-08-27 | Five contextualized translations, batch 20 | 58 words | call on; come through; go ahead; put aside; report back; spontaneous look into/pull out | come through with; go ahead with; launch vs. pull out; approval wording | No |
 | 2026-08-27 | Five contextualized translations, batch 21 | 55 words | back out; bring about; come off; go along with; take up; repeated spontaneous help out | policy/police; completed-event tense; presentation/demonstration; for the sake of + noun | No |
 | 2026-08-27 | Five contextualized translations, batch 22 | 48 words | be after; call out; come about; go for; hold up; spontaneous hold back/play out | hide vs. hold back; arise vs. play out; go for it; hold someone up | No |
+| 2026-08-28 | Five contextualized translations, batch 23 | 43 words | add up to; break through; bring out; come down; go off | plural dollars; lighting/color wording; alarm vs. clock; completed-event tense | No |
+| 2026-08-31 | Five contextualized translations, batch 24 | 53 words | break away; come out; get back; put on; turn into | pack/lap sports terms; when vs. what time; go out vs. get out; warehouse spelling | No |
+| 2026-08-31 | Five contextualized translations, batch 25 | 55 words | bring along; come back; get together; move on; wake up; incidental go off | remember to do vs. remember doing; ID capitalization; time-phrase placement | No |
+| 2026-08-31 | Five contextualized translations, batch 26 | 58 words | break in; come over; get by; hang on; run over; incidental go off/look up | thief/theft; check vs. look up; hardly vs. almost; bicyclist spelling | No |
+| 2026-08-31 | Five contextualized translations, batch 27 | 48 words | cheer up; come in; give back; keep on; send out | have to vs. would; him/her reference; a/an before vowel sounds | No |
+| 2026-08-31 | Five separable-verb translations, batch 28 | 56 words | cross out; fill up; give away; put away; write down; spontaneous set out | fill up the tank; in case + clause; answer placement | No |
+| 2026-08-31 | Five contextualized translations, batch 29 | 49 words | break out; come along; get out of; put out; take off | at midnight; progressive question form; particle “out”; behind schedule | No |
+| 2026-08-31 | Five contextualized translations, batch 30 | 60 words | burn out; catch up with; go around; stand out; switch off | burned/burnt; working overtime; someday spelling; make + object + base verb | No |
+| 2026-08-31 | Five contextualized translations, batch 31 | 50 words | brush aside; come on; get ahead; lay off; turn up | committee singular; discuss concerns; be going to be late; get ahead spelling; she hopes | No |
+| 2026-08-31 | Five contextualized translations, batch 32 | 38 words | come up; get into; look over; put back; take down | software design vs. industry; explicit destination with put back; notice context | No |
+| 2026-08-31 | Five contextualized translations, batch 33 | 62 words | dig into; get around; look through; put in; take in; spontaneous wrap up | dug; way to; old emails/attachment; finite verb; too much information | No |
+| 2026-08-31 | Wrong-answer review, batch 1 | 47 words | follow up on; get across; run out of; set up; take over | present perfect; meeting for a date; client's request | No |
+| 2026-08-31 | Wrong-answer review, batch 2 | 63 words | work out; catch up on; get over; run into; hold off | target substitution; get over without from; hold off on...until; articles | No |
+| 2026-09-01 | Wrong-answer review, batch 3 | 50 words | step back; cut back on; catch on; blow up; look up | the big picture; costs/spending; target substitution; word spelling | No |
+| 2026-09-01 | Wrong-answer review, batch 4 | 46 words | bring about; take up; come about; hold up; play out | target substitution; completed-event tense; question inversion; eventual redundancy | No |
+| 2026-09-01 | Wrong-answer review, batch 5 | 50 words | hand out; pull out; go off; bring along; run over | pull out of; remember to; required target recall; bicyclist spelling | No |
+| 2026-09-01 | Wrong-answer review, batch 6 | 55 words | fill up; come along; put out; stand out; get ahead | project progress vs. outcome; make + object + base verb; succeed/get ahead | No |
+| 2026-09-01 | Wrong-answer review, batch 7 | 57 words | come through; give back; dig into; put in; take in | come through with vs. come up with; cause/case; time detail | No |
+| 2026-09-01 | Wrong-answer review, batch 8 | 27 words | hold back; go ahead; spontaneous roll out | hold back + object/from doing; go ahead with; subject-verb agreement | No |

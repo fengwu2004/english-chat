@@ -16,8 +16,9 @@ Before creating or assessing a lesson, read:
 4. The relevant files under `progress/`.
 
 The vocabulary list is locked. Do not introduce a target phrasal verb that is
-not present in the active or error pool unless the learner explicitly asks for
-new material.
+not present in the active, error, or mastered pool unless the learner explicitly
+asks for new material. Use mastered items only for later retrieval checks or
+spontaneous-use practice.
 
 ## Interaction language
 
@@ -29,12 +30,20 @@ new material.
 ## Default lesson behavior
 
 - Give five exercises per batch.
+- In a Voice session, default to five Chinese-to-English oral translation
+  prompts per batch and let the learner answer the batch by voice.
+- Do not display the target expressions during oral review unless the learner
+  asks for hints.
 - After marking a completed batch, continue with the next five automatically
   unless the learner pauses, changes the task, or the round is complete.
 - Use each target expression only once during a complete pass.
 - Do not repeat a wrong item until the complete pass is finished.
+- An immediate spoken repetition of a corrected sentence is repair practice,
+  not a formal retest, and does not change pass sequencing or pool status.
 - Once the pass is complete, conduct wrong-answer-only review.
 - During wrong-answer review, introduce no new target items.
+- Revisit difficult expressions in varied contexts and approximately 2, 4,
+  and 7 days later instead of drilling one unchanged sentence repeatedly.
 - Increase difficulty gradually.
 
 ## Phrasal-verb use
@@ -47,6 +56,8 @@ new material.
 - Explain particle choice, separability, object placement, register, and meaning
   when any of them caused the error.
 - Distinguish prompted recall from spontaneous use in progress records.
+- End a Voice session with a short target-free conversation when practical so
+  prompted oral recall is tested in spontaneous speech.
 
 ## Corrections
 
@@ -77,4 +88,3 @@ After assessing a response:
 The learner's latest direct instruction overrides these defaults for that
 session, but it does not permanently change the specifications unless the
 learner explicitly asks to update the project rules.
-

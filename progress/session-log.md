@@ -35,3 +35,26 @@ Append new sessions below. Preserve previous entries.
 | 2026-08-27 | Contextualized phrasal-verb translation, batch 21 | 5 | 3 | 2 | Continue the active-pool pass; reinforce tense and purpose expressions. |
 | 2026-08-27 | Contextualized phrasal-verb translation, batch 22 | 5 | 3 | 2 | Continue the active-pool pass; distinguish arise, unfold, delay, and restrain meanings. |
 | 2026-08-27 | Additional spontaneous uses within batch 22 | 2 | 0 | 2 | Review “hold back” and “play out” after the active pass. |
+| 2026-08-28 | Contextualized phrasal-verb translation, batch 23 | 5 | 4 | 1 | Continue the active-pool pass; reinforce past tense and precise time-related nouns. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 24 | 5 | 5 | 0 | Continue the active-pool pass; focus on precise contextual vocabulary. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 25 | 5 | 4 | 1 | Continue the active-pool pass; distinguish remember to do from remember doing. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 26 | 5 | 4 | 1 | Continue the active-pool pass; distinguish hardly from almost/nearly. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 27 | 5 | 4 | 1 | Continue the active-pool pass; reinforce modal meaning and pronoun reference. |
+| 2026-08-31 | Separable phrasal-verb translation, batch 28 | 5 | 4 | 1 | Continue the active-pool pass; reinforce natural objects with “fill up.” |
+| 2026-08-31 | Spontaneous use within translation batch 28 | 1 | 1 | 0 | Recheck “set out” without prompting in a later cycle. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 29 | 5 | 3 | 2 | Continue the active-pool pass; reinforce progressive questions and required particles. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 30 | 5 | 4 | 1 | Continue the active-pool pass; reinforce make + object + base verb. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 31 | 5 | 4 | 1 | Continue the active-pool pass; reinforce exact phrasal-verb spelling and subject agreement. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 32 | 5 | 5 | 0 | Continue the active-pool pass with denser workplace contexts. |
+| 2026-08-31 | Contextualized phrasal-verb translation, batch 33 | 5 | 2 | 3 | Continue the active-pool pass; prioritize finite verbs, irregular past forms, and information-quantity patterns. |
+| 2026-08-31 | Spontaneous use within translation batch 33 | 1 | 1 | 0 | Recheck “wrap up” without prompting in a later cycle. |
+| 2026-08-31 | Spontaneous use during review request | 1 | 1 | 0 | Begin wrong-answer review in batches of five. |
+| 2026-08-31 | Wrong-answer review, batch 1 | 5 | 3 | 2 | Continue with five unreviewed errors; revisit run out of and set up after the review pass. |
+| 2026-08-31 | Wrong-answer review, batch 2 | 5 | 0 | 5 | Continue with five unreviewed errors; revisit this batch after the review pass. |
+| 2026-09-01 | Wrong-answer review, batch 3 | 5 | 2 | 3 | Continue with five unreviewed errors; revisit cut back on, catch on, and blow up later. |
+| 2026-09-01 | Wrong-answer review, batch 4 | 5 | 1 | 4 | Continue with five unreviewed errors; revisit bring about, take up, come about, and hold up later. |
+| 2026-09-01 | Wrong-answer review, batch 5 | 5 | 3 | 2 | Continue with five unreviewed errors; revisit pull out and bring along later. |
+| 2026-09-01 | Wrong-answer review, batch 6 | 5 | 3 | 2 | Continue with five unreviewed errors; revisit come along and get ahead later. |
+| 2026-09-01 | Wrong-answer review, batch 7 | 5 | 4 | 1 | Complete the two remaining unreviewed errors, then begin a second review pass. |
+| 2026-09-01 | Wrong-answer review, batch 8 | 2 | 0 | 2 | First review pass complete: 16/37 repaired; begin second pass on 21 remaining errors. |
+| 2026-09-01 | Spontaneous use within review batch 8 | 1 | 1 | 0 | Recheck “roll out” without prompting in a later cycle. |

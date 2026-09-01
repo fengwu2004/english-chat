@@ -53,6 +53,43 @@ The coach SHALL isolate missed material during an error-review cycle.
 - **THEN** every target SHALL come from `vocabulary/error-pool.md`
 - **AND** no new target SHALL be introduced
 
+### Requirement: Immediate repair versus formal retest
+
+The coach SHALL distinguish same-turn correction practice from a scored memory
+check.
+
+#### Scenario: Repeating a corrected answer
+
+- **GIVEN** a target was answered incorrectly
+- **WHEN** the learner repeats the corrected sentence immediately
+- **THEN** the repetition SHALL be treated as repair practice
+- **AND** SHALL NOT count as a new formal attempt
+- **AND** SHALL NOT move the target from the error pool to the mastered pool
+- **AND** SHALL NOT violate the rule against retesting a wrong item within the
+  same pass
+
+### Requirement: Spaced and varied review
+
+The coach SHALL distribute formal review over time and change the retrieval
+context.
+
+#### Scenario: Scheduling a missed or fragile expression
+
+- **WHEN** an expression needs continued review
+- **THEN** the coach SHALL normally schedule independent checks approximately
+  2, 4, and 7 days after the relevant attempt
+- **AND** record the next review timing in the applicable progress entry
+- **AND** adapt the interval when the learner's performance shows that an
+  earlier or later check is more useful
+
+#### Scenario: Conducting a spaced retest
+
+- **WHEN** a scheduled retest becomes due
+- **THEN** the coach SHALL use a new sentence or conversational context
+- **AND** SHALL withhold the target expression before the attempt
+- **AND** SHALL score the first independent answer rather than a corrected
+  repetition
+
 ### Requirement: Progressive difficulty
 
 The coach SHALL increase production difficulty without sudden jumps.
@@ -62,4 +99,3 @@ The coach SHALL increase production difficulty without sudden jumps.
 - **GIVEN** the learner is consistently accurate at the current level
 - **WHEN** the next lesson is prepared
 - **THEN** practice SHALL progress from direct translation to contextualized sentences, connected writing, and spontaneous speaking
-

@@ -7,39 +7,19 @@
 
 ## A
 
--   add up to
 
 ## B
 
--   break away
--   break in
--   break out
--   break through
--   bring along
 -   bring down
 -   bring forward
 -   bring on
--   bring out
--   brush aside
--   burn out
 
 ## C
 
 -   catch up
--   catch up with
--   cheer up
 -   clean up
--   come along
--   come back
--   come down
--   come in
--   come on
--   come out
--   come over
--   come up
 -   cope with
 -   crop up
--   cross out
 -   cut back
 -   cut down
 -   cut off
@@ -48,7 +28,6 @@
 ## D
 
 -   die down
--   dig into
 -   do over
 -   do without
 -   drag on
@@ -71,37 +50,25 @@
 -   fall for
 -   fall out
 -   fight back
--   fill up
 -   finish off
 -   follow up
 
 ## G
 
--   get ahead
 -   get along
--   get around
 -   get away
--   get back
--   get by
 -   get down
 -   get in
--   get into
 -   get off
 -   get out
--   get out of
--   get together
 -   get up
--   give away
--   give back
 -   give in
 -   give out
 -   go about
 -   go along
--   go around
 -   go back
 -   go down
 -   go in
--   go off
 -   go out
 -   go up
 -   grow out of
@@ -109,7 +76,6 @@
 
 ## H
 
--   hang on
 -   hang out
 -   hang up
 -   head for
@@ -120,7 +86,6 @@
 
 -   keep away
 -   keep back
--   keep on
 -   keep out
 -   keep up
 -   kick off
@@ -132,7 +97,6 @@
 ## L
 
 -   lay down
--   lay off
 -   lay out
 -   lead to
 -   leave behind
@@ -149,8 +113,6 @@
 -   look down on
 -   look for
 -   look out
--   look over
--   look through
 -   look up to
 -   lose out
 
@@ -163,7 +125,6 @@
 -   mix up
 -   move back
 -   move in
--   move on
 -   move out
 -   move up
 
@@ -193,12 +154,7 @@
 -   push ahead
 -   push back
 -   put across
--   put away
--   put back
 -   put down
--   put in
--   put on
--   put out
 -   put up
 
 ## R
@@ -207,11 +163,9 @@
 -   read through
 -   ring back
 -   ring up
--   roll out
 -   run across
 -   run away
 -   run out
--   run over
 -   run through
 
 ## S
@@ -220,12 +174,10 @@
 -   seek out
 -   sell out
 -   send back
--   send out
 -   set about
 -   set aside
 -   set down
 -   set off
--   set out
 -   settle down
 -   settle into
 -   show off
@@ -240,7 +192,6 @@
 -   speak out
 -   stand by
 -   stand for
--   stand out
 -   stand up
 -   stand up for
 -   start out
@@ -250,7 +201,6 @@
 -   stay out
 -   stick with
 -   sum up
--   switch off
 -   switch on
 
 ## T
@@ -258,9 +208,6 @@
 -   take after
 -   take away
 -   take back
--   take down
--   take in
--   take off
 -   take out
 -   talk into
 -   talk out of
@@ -276,15 +223,12 @@
 -   turn away
 -   turn back
 -   turn in
--   turn into
 -   turn off
 -   turn on
 -   turn over
--   turn up
 
 ## W
 
--   wake up
 -   walk away
 -   walk out
 -   warm up
@@ -294,4 +238,3 @@
 -   wind up
 -   wipe out
 -   work on
--   write down
