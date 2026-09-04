@@ -10,6 +10,7 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | act on | 2026-08-25 | Controlled translation | prompted | We should act on the feedback of our client. |
 | back up | 2026-08-25 | Controlled translation | prompted | Can you back up your points with some actual data? |
 | bring up | 2026-08-25 | Controlled translation | prompted | She brought up questions refer to budget. |
+| bring about | 2026-09-02 | Spaced oral review | spontaneous | The new training plan has brought about remarkable changes. |
 | carry out | 2026-08-25 | Controlled translation | prompted | Our teams will carry out the plan next week. |
 | come up with | 2026-08-25 | Controlled translation | prompted | We need to come up with a solution to the problem. |
 | point out | 2026-08-25 | Session interaction | spontaneous | You should point out the mistakes. |
@@ -164,3 +165,33 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | put in | 2026-09-01 | Wrong-answer review | spontaneous | I put in 3 hours yesterday to wrap up the work. |
 | take in | 2026-09-01 | Wrong-answer review | spontaneous | There is too much information for me to take in at once. |
 | roll out | 2026-09-01 | Wrong-answer review interaction | spontaneous | We can continue to roll out the new product as the client have approved it. |
+| set up | 2026-09-02 | Spaced oral review | spontaneous | I have set up a video meeting for Thursday afternoon. |
+| catch up on | 2026-09-02 | Spaced oral review | spontaneous | I caught up on the pending messages this morning. |
+| get over | 2026-09-02 | Spaced oral review | spontaneous | It took her a lot of time to get over the disappointment of the failure of the interview. |
+| cut back on | 2026-09-02 | Spaced oral review | spontaneous | The canteen has to cut back on spending because of the declining number of clients. |
+| come about | 2026-09-02 | Spaced oral review | spontaneous | How did the misunderstanding come about? |
+| hold up | 2026-09-02 | Spaced oral review | spontaneous | We were held up by the road work for half an hour. |
+| bring along | 2026-09-02 | Spaced oral review | spontaneous | Remember to bring along your passport when you come to the office tomorrow. |
+| get ahead | 2026-09-02 | Spaced oral review | spontaneous | She hoped to get ahead in career by continual leaning. |
+| bring forward | 2026-09-02 | Controlled oral translation | spontaneous | We brought forward the meeting to Thursday because the client's time changed. |
+| catch up | 2026-09-02 | Controlled oral translation | spontaneous | We fell behind for 2 days, but we feel like we could catch up on the work by the weekend. |
+| cut back | 2026-09-02 | Controlled oral translation | spontaneous | We have to cut back on unnecessary trips to control the budget. |
+| cut down | 2026-09-02 | Controlled oral translation | spontaneous | The doctor advised him to cut down on coffee by 2 cups. |
+| cut off | 2026-09-02 | Controlled oral translation | spontaneous | The storm cut off the electricity in the town. |
+| drag on | 2026-09-03 | Controlled oral translation | spontaneous | The meeting has dragged on 3 hours without coming up a decision. |
+| draw up | 2026-09-03 | Controlled oral translation | spontaneous | The legal team is drawing up the new contract. |
+| dream of | 2026-09-03 | Controlled oral translation | spontaneous | I have been dreaming of living near the sea. |
+| drop out | 2026-09-03 | Controlled oral translation | spontaneous | He dropped out of college and started up his own business. |
+| eat out | 2026-09-03 | Controlled oral translation | spontaneous | We don't cook the meal tonight, let's eat out. |
+| face up to | 2026-09-03 | Controlled oral translation | spontaneous | At the end of the day, the company has to face up to this serious issue. |
+| fall apart | 2026-09-03 | Controlled oral translation | spontaneous | The old box fell apart when moving away. |
+| finish off | 2026-09-04 | Controlled oral translation | spontaneous | Please finish off the last part of the report by launch. |
+| follow up | 2026-09-04 | Controlled oral translation | spontaneous | I' ll follow up on the clients' complain. |
+| get along | 2026-09-04 | Controlled oral translation | spontaneous | I get along with the new colleague well. |
+| run out of | 2026-09-04 | Spaced oral review | spontaneous | The printer ran out of ink before meeting. |
+| work out | 2026-09-04 | Spaced oral review | spontaneous | We haven't worked out the total cost of the event. |
+| run into | 2026-09-04 | Spaced oral review | spontaneous | I ran into an old friend at the subway station yesterday. |
+| blow up | 2026-09-04 | Spaced oral review | spontaneous | A small complaint quickly blew up into a public arguement. |
+| come through | 2026-09-04 | Spaced oral review | spontaneous | The vendor came through with the replacement parts at the last minute. |
+| pull out | 2026-09-04 | Spaced oral review | spontaneous | The company pulled out of the market after suffering several years' loss. |
+| take up | 2026-09-04 | Spaced oral review | spontaneous | She took up yoga last year to cope with stress. |

@@ -58,3 +58,16 @@ Append new sessions below. Preserve previous entries.
 | 2026-09-01 | Wrong-answer review, batch 7 | 5 | 4 | 1 | Complete the two remaining unreviewed errors, then begin a second review pass. |
 | 2026-09-01 | Wrong-answer review, batch 8 | 2 | 0 | 2 | First review pass complete: 16/37 repaired; begin second pass on 21 remaining errors. |
 | 2026-09-01 | Spontaneous use within review batch 8 | 1 | 1 | 0 | Recheck “roll out” without prompting in a later cycle. |
+| 2026-09-02 | Spaced oral wrong-answer review, batch 1 | 5 | 3 | 2 | Immediate repair now; formally retest run out of and work out in new contexts on 2026-09-04. |
+| 2026-09-02 | Spaced oral wrong-answer review, batch 2 | 5 | 1 | 4 | Retest run into, hold off, catch on, and blow up in new contexts on 2026-09-04; add make out to review. |
+| 2026-09-02 | Spaced oral wrong-answer review, batch 3 | 5 | 1 | 4 | Retest come through, go ahead, pull out, and take up in new contexts on 2026-09-04; continue with unreviewed errors. |
+| 2026-09-02 | Spaced oral wrong-answer review, batch 4 | 5 | 3 | 2 | Retest hold back and come along in new contexts on 2026-09-04; finish the current pass with get ahead. |
+| 2026-09-02 | Spaced oral wrong-answer review, pass-completion item | 1 | 1 | 0 | Second wrong-answer pass complete: 9/21 correct; formally retest the 12 remaining errors in varied contexts beginning 2026-09-04. |
+| 2026-09-02 | Controlled oral translation, new active targets batch 1 | 5 | 2 | 3 | Continue the active-pool pass; retest bring down, bring on, and clean up in varied contexts on 2026-09-04. |
+| 2026-09-02 | Controlled oral translation, new active targets batch 2 | 5 | 3 | 2 | Continue the active-pool pass; retest cope with and crop up in varied contexts on 2026-09-04. |
+| 2026-09-03 | Controlled oral translation, new active targets batch 3 | 5 | 2 | 3 | Continue the active-pool pass; retest die down, do over, and do without in varied contexts on 2026-09-05. |
+| 2026-09-03 | Controlled oral translation, new active targets batch 4 | 5 | 2 | 3 | Continue the active-pool pass; retest dress up, drop by, and drop in in varied contexts on 2026-09-05. |
+| 2026-09-03 | Controlled oral translation, new active targets batch 5 | 5 | 3 | 2 | Continue the active-pool pass; retest fall behind and fall for in varied contexts on 2026-09-05. |
+| 2026-09-04 | Controlled oral translation, new active targets batch 6 | 5 | 3 | 2 | Continue the active-pool pass; retest fall out and fight back in varied contexts on 2026-09-06. |
+| 2026-09-04 | Spaced oral wrong-answer review, batch 1 | 5 | 3 | 2 | Retest hold off and catch on in varied contexts on 2026-09-06; continue with other due review items. |
+| 2026-09-04 | Spaced oral wrong-answer review, batch 2 | 5 | 4 | 1 | Retest go ahead in a varied context on 2026-09-06; continue with other due review items. |

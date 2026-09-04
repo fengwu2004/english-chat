@@ -10,52 +10,21 @@
 
 ## B
 
--   bring down
--   bring forward
--   bring on
 
 ## C
 
--   catch up
--   clean up
--   cope with
--   crop up
--   cut back
--   cut down
--   cut off
 -   cut out
 
 ## D
 
--   die down
--   do over
--   do without
--   drag on
--   draw up
--   dream of
--   dress up
--   drop by
--   drop in
--   drop out
 
 ## E
 
--   eat out
-
 ## F
 
--   face up to
--   fall apart
--   fall behind
--   fall for
--   fall out
--   fight back
--   finish off
--   follow up
 
 ## G
 
--   get along
 -   get away
 -   get down
 -   get in
@@ -119,7 +88,6 @@
 ## M
 
 -   make for
--   make out
 -   make up
 -   mess up
 -   mix up
