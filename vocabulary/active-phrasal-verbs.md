@@ -25,21 +25,6 @@
 
 ## G
 
--   get away
--   get down
--   get in
--   get off
--   get out
--   get up
--   give in
--   give out
--   go about
--   go along
--   go back
--   go down
--   go in
--   go out
--   go up
 -   grow out of
 -   grow up
 

@@ -71,3 +71,14 @@ Append new sessions below. Preserve previous entries.
 | 2026-09-04 | Controlled oral translation, new active targets batch 6 | 5 | 3 | 2 | Continue the active-pool pass; retest fall out and fight back in varied contexts on 2026-09-06. |
 | 2026-09-04 | Spaced oral wrong-answer review, batch 1 | 5 | 3 | 2 | Retest hold off and catch on in varied contexts on 2026-09-06; continue with other due review items. |
 | 2026-09-04 | Spaced oral wrong-answer review, batch 2 | 5 | 4 | 1 | Retest go ahead in a varied context on 2026-09-06; continue with other due review items. |
+| 2026-09-07 | Spaced oral wrong-answer review, batch 3 | 5 | 0 | 5 | Retest hold back, come along, bring down, bring on, and clean up in varied contexts on 2026-09-09; continue with other overdue review items. |
+| 2026-09-07 | Spaced oral wrong-answer review, batch 4 | 5 | 1 | 4 | Retest cope with, crop up, die down, and do without in varied contexts on 2026-09-09; continue with other overdue review items. |
+| 2026-09-07 | Spaced oral wrong-answer review, batch 5 | 5 | 3 | 2 | Retest drop in and fall behind in varied contexts on 2026-09-09; continue with other overdue review items. |
+| 2026-09-08 | Spaced oral wrong-answer review, batch 6 | 5 | 2 | 3 | Retest fall out, hold off, and catch on in varied contexts on 2026-09-10; finish the current review pass with make out. |
+| 2026-09-08 | Spaced oral wrong-answer review, pass-completion item | 1 | 1 | 0 | Review pass complete: 7/21 correct; schedule the 14 remaining errors for varied spaced review and resume the active-pool pass. |
+| 2026-09-09 | Controlled oral translation, new active targets batch 7 | 5 | 3 | 2 | Pause the active-pool pass for due review; retest get down and get in in varied contexts on 2026-09-11. |
+| 2026-09-09 | Spaced oral wrong-answer review, batch 7 | 5 | 1 | 4 | Retest hold back, come along, bring down, and clean up in varied contexts on 2026-09-11; continue with other due review items. |
+| 2026-09-09 | Spaced oral wrong-answer review, batch 8 | 5 | 3 | 2 | Retest die down and drop in in varied contexts on 2026-09-11; finish today's due set with fall behind. |
+| 2026-09-09 | Spaced oral wrong-answer review, due-set completion item | 1 | 1 | 0 | Today's due set complete: 5/11 correct; resume the active-pool pass and revisit remaining errors on schedule. |
+| 2026-09-09 | Controlled oral translation, new active targets batch 8 | 5 | 2 | 3 | Continue the active-pool pass; retest give out, go about, and go along in varied contexts on 2026-09-11. |
+| 2026-09-09 | Controlled oral translation, new active targets batch 9 | 5 | 1 | 4 | Continue the active-pool pass; retest go back, go down, go in, and go out in varied contexts on 2026-09-11. |

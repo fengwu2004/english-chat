@@ -195,3 +195,21 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | come through | 2026-09-04 | Spaced oral review | spontaneous | The vendor came through with the replacement parts at the last minute. |
 | pull out | 2026-09-04 | Spaced oral review | spontaneous | The company pulled out of the market after suffering several years' loss. |
 | take up | 2026-09-04 | Spaced oral review | spontaneous | She took up yoga last year to cope with stress. |
+| do over | 2026-09-07 | Spaced oral review | spontaneous | I have to do it over as the application form got wrong. |
+| dress up | 2026-09-07 | Spaced oral review | spontaneous | The wedding was very formal, so everyone dressed up. |
+| drop by | 2026-09-07 | Spaced oral review | spontaneous | I'll drop by your home and give your key back. |
+| fall for | 2026-09-07 | Spaced oral review | spontaneous | He almost fell for the fraud email from the bank. |
+| fight back | 2026-09-08 | Spaced oral review | spontaneous | She immediately fought back when someone called her out. |
+| go ahead | 2026-09-08 | Spaced oral review | spontaneous | We can go ahead with hiring as the board has approved the budget. |
+| make out | 2026-09-08 | Spaced oral review | spontaneous | I can't make out the number of the room because it's too dark. |
+| get away | 2026-09-09 | Controlled oral translation | spontaneous | The thief got away before police arrived. |
+| get off | 2026-09-09 | Controlled oral translation | spontaneous | We need to get off at next station. |
+| get out | 2026-09-09 | Controlled oral translation | spontaneous | Everyone got out successfully when the office was on fire. |
+| bring on | 2026-09-09 | Spaced oral review | spontaneous | Nonstop work overtime may bring on serious burnout. |
+| cope with | 2026-09-09 | Spaced oral review | spontaneous | He is learning how to cope with the stress brought on by the new job. |
+| crop up | 2026-09-09 | Spaced oral review | spontaneous | One technical issue cropped up when we almost pulled off. |
+| do without | 2026-09-09 | Spaced oral review | spontaneous | There is no elevator in the hotel, so we have to do without it. |
+| fall behind | 2026-09-09 | Spaced oral review | spontaneous | The project fell behind because of the shortage of label in two days. |
+| get up | 2026-09-09 | Controlled oral translation | spontaneous | I usually get up at 6 a.m. |
+| give in | 2026-09-09 | Controlled oral translation | spontaneous | He finally gave in after three hours argument. |
+| go up | 2026-09-09 | Controlled oral translation | spontaneous | The lent price will go up next year. |
