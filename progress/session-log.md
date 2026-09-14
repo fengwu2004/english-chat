@@ -82,3 +82,10 @@ Append new sessions below. Preserve previous entries.
 | 2026-09-09 | Spaced oral wrong-answer review, due-set completion item | 1 | 1 | 0 | Today's due set complete: 5/11 correct; resume the active-pool pass and revisit remaining errors on schedule. |
 | 2026-09-09 | Controlled oral translation, new active targets batch 8 | 5 | 2 | 3 | Continue the active-pool pass; retest give out, go about, and go along in varied contexts on 2026-09-11. |
 | 2026-09-09 | Controlled oral translation, new active targets batch 9 | 5 | 1 | 4 | Continue the active-pool pass; retest go back, go down, go in, and go out in varied contexts on 2026-09-11. |
+| 2026-09-10 | Controlled oral translation, new active targets batch 10 | 5 | 0 | 5 | Pause the active-pool pass for due review; retest grow out of, grow up, hang out, hang up, and head for in varied contexts on 2026-09-12. |
+| 2026-09-10 | Spaced oral wrong-answer review, due set | 3 | 2 | 1 | Retest hold off with “until” in a varied context on 2026-09-12; resume the active-pool pass. |
+| 2026-09-14 | Controlled oral translation, new active targets batch 11 | 5 | 3 | 2 | Pause the active-pool pass for overdue review; retest keep back and keep out in varied contexts on 2026-09-16. |
+| 2026-09-14 | Spaced oral wrong-answer review, batch 9 | 5 | 4 | 1 | Retest grow up with correct auxiliary/verb form in a varied context on 2026-09-16; continue with other overdue review items. |
+| 2026-09-14 | Spaced oral wrong-answer review, batch 10 | 5 | 3 | 2 | Retest head for and get in in varied contexts on 2026-09-16; continue with other overdue review items. |
+| 2026-09-14 | Spaced oral wrong-answer review, batch 11 | 5 | 1 | 4 | Retest bring down, die down, drop in, and give out in varied contexts on 2026-09-16; continue with other overdue review items. |
+| 2026-09-14 | Incidental spontaneous use within review batch 11 | 1 | 1 | 0 | Recheck kick off without prompting in a later retrieval cycle. |

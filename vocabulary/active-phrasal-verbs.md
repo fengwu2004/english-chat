@@ -25,24 +25,13 @@
 
 ## G
 
--   grow out of
--   grow up
 
 ## H
 
--   hang out
--   hang up
--   head for
--   hold on
--   hold out
 
 ## K
 
--   keep away
--   keep back
--   keep out
 -   keep up
--   kick off
 -   knock down
 -   knock off
 -   knock out

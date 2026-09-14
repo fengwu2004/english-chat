@@ -210,6 +210,20 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | crop up | 2026-09-09 | Spaced oral review | spontaneous | One technical issue cropped up when we almost pulled off. |
 | do without | 2026-09-09 | Spaced oral review | spontaneous | There is no elevator in the hotel, so we have to do without it. |
 | fall behind | 2026-09-09 | Spaced oral review | spontaneous | The project fell behind because of the shortage of label in two days. |
+| hold off | 2026-09-14 | Spaced oral review | spontaneous | Let's hold off paying until the vendor makes sure the transfer date. |
+| grow out of | 2026-09-14 | Spaced oral review | spontaneous | She grew out of biting her neils. |
+| hang out | 2026-09-14 | Spaced oral review | spontaneous | We usually hung out at the coffea when we were in the college. |
+| hang up | 2026-09-14 | Spaced oral review | spontaneous | He hung up without any word after hearing the news. |
+| get down | 2026-09-14 | Spaced oral review | spontaneous | Don't let the failure of the interview get you down. |
+| hold back | 2026-09-14 | Spaced oral review | spontaneous | She held back from laughing at the meeting. |
+| come along | 2026-09-14 | Spaced oral review | spontaneous | How is the development of the new software coming along? |
+| clean up | 2026-09-14 | Spaced oral review | spontaneous | They cleaned up the kitchen after the party. |
+| kick off | 2026-09-14 | Incidental use during spaced oral review | spontaneous | The presentation won't kick off until the clients' sound gets lower. |
 | get up | 2026-09-09 | Controlled oral translation | spontaneous | I usually get up at 6 a.m. |
 | give in | 2026-09-09 | Controlled oral translation | spontaneous | He finally gave in after three hours argument. |
 | go up | 2026-09-09 | Controlled oral translation | spontaneous | The lent price will go up next year. |
+| fall out | 2026-09-10 | Spaced oral review | spontaneous | Two old friends fell out because of a misunderstanding. |
+| catch on | 2026-09-10 | Spaced oral review | spontaneous | She didn't understand at first, but then caught on quickly after seeing an example. |
+| hold on | 2026-09-14 | Controlled oral translation | spontaneous | Please hold on for a second, I will get back soon. |
+| hold out | 2026-09-14 | Controlled oral translation | spontaneous | Trapped climbers held out for two days until rescues arrived. |
+| keep away | 2026-09-14 | Controlled oral translation | spontaneous | Keep children away from the heat stove. |
