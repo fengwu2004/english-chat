@@ -89,3 +89,7 @@ Append new sessions below. Preserve previous entries.
 | 2026-09-14 | Spaced oral wrong-answer review, batch 10 | 5 | 3 | 2 | Retest head for and get in in varied contexts on 2026-09-16; continue with other overdue review items. |
 | 2026-09-14 | Spaced oral wrong-answer review, batch 11 | 5 | 1 | 4 | Retest bring down, die down, drop in, and give out in varied contexts on 2026-09-16; continue with other overdue review items. |
 | 2026-09-14 | Incidental spontaneous use within review batch 11 | 1 | 1 | 0 | Recheck kick off without prompting in a later retrieval cycle. |
+| 2026-09-15 | Spaced oral wrong-answer review, batch 12 | 5 | 4 | 1 | Retest go back in a varied context on 2026-09-17; finish the current overdue set with go out. |
+| 2026-09-15 | Spaced oral wrong-answer review, pass-completion item | 1 | 0 | 1 | Review pass complete: 12/21 correct; retest go out in a varied context on 2026-09-17 and resume the active-pool pass. |
+| 2026-09-15 | Controlled oral translation, new active targets batch 12 | 5 | 2 | 3 | Continue the active-pool pass; retest keep up, knock down, and knock off in varied contexts on 2026-09-17. |
+| 2026-09-15 | Controlled oral translation, new active targets batch 13 | 5 | 1 | 4 | Continue the active-pool pass; retest lay down, lay out, lead to, and leave behind in varied contexts on 2026-09-17. |

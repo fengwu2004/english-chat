@@ -219,6 +219,13 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | come along | 2026-09-14 | Spaced oral review | spontaneous | How is the development of the new software coming along? |
 | clean up | 2026-09-14 | Spaced oral review | spontaneous | They cleaned up the kitchen after the party. |
 | kick off | 2026-09-14 | Incidental use during spaced oral review | spontaneous | The presentation won't kick off until the clients' sound gets lower. |
+| go about | 2026-09-15 | Spaced oral review | spontaneous | How do you go about preparing this interview? |
+| go along | 2026-09-15 | Spaced oral review | spontaneous | The plan is not my favorite, but I will go along with it. |
+| go down | 2026-09-15 | Spaced oral review | spontaneous | Out maintence cost has gone down by 10% this year. |
+| go in | 2026-09-15 | Spaced oral review | spontaneous | The door was unlocked, so I went in and had a look. |
+| knock out | 2026-09-15 | Controlled oral translation | spontaneous | The punch knocked him out. |
+| knock over | 2026-09-15 | Controlled oral translation | spontaneous | I carelessly knocked over the coffee on the desk. |
+| let down | 2026-09-15 | Controlled oral translation | spontaneous | I promised to help her out, so I don't want to let her down. |
 | get up | 2026-09-09 | Controlled oral translation | spontaneous | I usually get up at 6 a.m. |
 | give in | 2026-09-09 | Controlled oral translation | spontaneous | He finally gave in after three hours argument. |
 | go up | 2026-09-09 | Controlled oral translation | spontaneous | The lent price will go up next year. |

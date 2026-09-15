@@ -31,19 +31,9 @@
 
 ## K
 
--   keep up
--   knock down
--   knock off
--   knock out
--   knock over
 
 ## L
 
--   lay down
--   lay out
--   lead to
--   leave behind
--   let down
 -   let in
 -   let off
 -   let out
