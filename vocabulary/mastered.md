@@ -226,6 +226,51 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | knock out | 2026-09-15 | Controlled oral translation | spontaneous | The punch knocked him out. |
 | knock over | 2026-09-15 | Controlled oral translation | spontaneous | I carelessly knocked over the coffee on the desk. |
 | let down | 2026-09-15 | Controlled oral translation | spontaneous | I promised to help her out, so I don't want to let her down. |
+| line up | 2026-09-16 | Controlled oral translation | spontaneous | The applications are lining up outside the door. |
+| grow up | 2026-09-16 | Spaced oral review | spontaneous | He grew up in three different countries. |
+| head for | 2026-09-16 | Spaced oral review | spontaneous | We will head for the train station after the meeting. |
+| bring down | 2026-09-16 | Spaced oral review | spontaneous | The new police is designed to bring the energy price down by 15%. |
+| die down | 2026-09-16 | Spaced oral review | spontaneous | The host kept on talking when the cheering dies down. |
+| drop in | 2026-09-16 | Spaced oral review | spontaneous | Feel free to drop in if you are in the area during the launch. |
+| give out | 2026-09-16 | Spaced oral review | spontaneous | The staff gave out the number cards at the door. |
+| live through | 2026-09-16 | Controlled oral translation | spontaneous | My grandparents lived through wars and serious economic crises. |
+| look back | 2026-09-16 | Controlled oral translation | spontaneous | Looking back, we have made great changes. |
+| look for | 2026-09-16 | Controlled oral translation | spontaneous | I have been looking for the key for half an hour. |
+| look out | 2026-09-16 | Controlled oral translation | spontaneous | Look out/Watch out, there is a bicycle behind you. |
+| look up to | 2026-09-16 | Controlled oral translation | spontaneous | She always looks up to her big sister. |
+| make up | 2026-09-16 | Controlled oral translation | spontaneous | She made up an excuse to explain why she was late. |
+| mess up | 2026-09-16 | Controlled oral translation | spontaneous | I messed up the preordering by filling out the wrong date. |
+| mix up | 2026-09-16 | Controlled oral translation | spontaneous | I often mix up the names of these two customers. |
+| move out | 2026-09-16 | Controlled oral translation | spontaneous | The landlord required us to move out by the end of the month. |
+| narrow down | 2026-09-16 | Controlled oral translation | spontaneous | We have narrowed the number of candidates down to 3. |
+| open up | 2026-09-16 | Controlled oral translation | spontaneous | It took him a long time to open himself up to his colleagues. |
+| pass away | 2026-09-16 | Controlled oral translation | spontaneous | Her grandpa passed away peacefully. |
+| pass out | 2026-09-16 | Controlled oral translation | spontaneous | He passed out due to the hot weather. |
+| pay for | 2026-09-16 | Controlled oral translation | spontaneous | The company will pay for the accommodation fees when you are on business trip. |
+| pick on | 2026-09-16 | Controlled oral translation | spontaneous | Several older children always pick on him at school. |
+| pull off | 2026-09-16 | Controlled oral translation | spontaneous | Although the preparation time was very short, the team pulled off the product launching. |
+| pull up | 2026-09-16 | Controlled oral translation | spontaneous | The cab pulled up at the hotel door. |
+| put up | 2026-09-17 | Controlled oral translation | spontaneous | They put up a critical notice at the entrance. |
+| run away | 2026-09-17 | Controlled oral translation | spontaneous | The kid ran away when seeing the big dog. |
+| seek out | 2026-09-17 | Controlled oral translation | spontaneous | Good management can seek out different opinions. |
+| sell out | 2026-09-17 | Controlled oral translation | spontaneous | All the tickets were sold out in 10 munites. |
+| send back | 2026-09-17 | Controlled oral translation | spontaneous | I sent back the broken product. |
+| set aside | 2026-09-17 | Controlled oral translation | spontaneous | We set aside two hours to discuss the budget. |
+| set down | 2026-09-17 | Controlled oral translation | spontaneous | Please set down the main points made by meeting. |
+| show off | 2026-09-17 | Controlled oral translation | spontaneous | He always shows his new watch off in front of his colleagues. |
+| shut up | 2026-09-17 | Controlled oral translation | spontaneous | He angrily asked everyone to shut up. |
+| sit down | 2026-09-17 | Controlled oral translation | spontaneous | Please sit down, our interview will kick off soon. |
+| sit up | 2026-09-17 | Controlled oral translation | spontaneous | She sat up immediately when she heard her name. |
+| slow down | 2026-09-17 | Controlled oral translation | spontaneous | It's rainy now, please slow down. |
+| speak out | 2026-09-17 | Controlled oral translation | spontaneous | If you think the decision is unfair, you should speak out. |
+| stand for | 2026-09-21 | Controlled oral translation | spontaneous | What does this short name stand for? |
+| start out | 2026-09-21 | Controlled oral translation | spontaneous | She started out as a assistant, and moved up as the department manager. |
+| stay on | 2026-09-21 | Controlled oral translation | spontaneous | She stayed on to clean up the room after the meeting. |
+| sum up | 2026-09-21 | Controlled oral translation | spontaneous | Let's sum up the key points we had discussed. |
+| switch on | 2026-09-21 | Controlled oral translation | spontaneous | Can you switch on the projector? |
+| take after | 2026-09-21 | Controlled oral translation | spontaneous | She takes after her mum in humar. |
+| take back | 2026-09-21 | Controlled oral translation | spontaneous | I took back my words; it is unfair. |
+| talk out of | 2026-09-21 | Controlled oral translation | spontaneous | I tried to talk him out of resigning. |
 | get up | 2026-09-09 | Controlled oral translation | spontaneous | I usually get up at 6 a.m. |
 | give in | 2026-09-09 | Controlled oral translation | spontaneous | He finally gave in after three hours argument. |
 | go up | 2026-09-09 | Controlled oral translation | spontaneous | The lent price will go up next year. |

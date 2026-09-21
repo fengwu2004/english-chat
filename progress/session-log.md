@@ -93,3 +93,25 @@ Append new sessions below. Preserve previous entries.
 | 2026-09-15 | Spaced oral wrong-answer review, pass-completion item | 1 | 0 | 1 | Review pass complete: 12/21 correct; retest go out in a varied context on 2026-09-17 and resume the active-pool pass. |
 | 2026-09-15 | Controlled oral translation, new active targets batch 12 | 5 | 2 | 3 | Continue the active-pool pass; retest keep up, knock down, and knock off in varied contexts on 2026-09-17. |
 | 2026-09-15 | Controlled oral translation, new active targets batch 13 | 5 | 1 | 4 | Continue the active-pool pass; retest lay down, lay out, lead to, and leave behind in varied contexts on 2026-09-17. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 14 | 5 | 1 | 4 | Pause the active-pool pass for due review; retest let in, let off, let out, and live on in varied contexts on 2026-09-18. |
+| 2026-09-16 | Spaced oral wrong-answer review, batch 13 | 5 | 2 | 3 | Retest keep back, keep out, and get in in varied contexts on 2026-09-18; continue with the remaining due items. |
+| 2026-09-16 | Spaced oral wrong-answer review, due-set completion | 4 | 4 | 0 | Today's due set complete: 6/9 correct; resume the active-pool pass and revisit the three remaining errors on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 15 | 5 | 2 | 3 | Continue the active-pool pass; retest look around, look down, and look down on in varied contexts on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 16 | 5 | 3 | 2 | Continue the active-pool pass; retest lose out and make for in varied contexts on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 17 | 5 | 3 | 2 | Continue the active-pool pass; retest move back and move in in varied contexts on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 18 | 5 | 4 | 1 | Continue the active-pool pass; retest move up in a varied context on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 19 | 5 | 3 | 2 | Continue the active-pool pass; retest pass on and pay back in varied contexts on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 20 | 5 | 1 | 4 | Continue the active-pool pass; retest pick out, pull apart, pull away, and pull back in varied contexts on 2026-09-18. |
+| 2026-09-16 | Controlled oral translation, new active targets batch 21 | 5 | 1 | 4 | Continue the active-pool pass; retest pull through, push ahead, push back, and put across in varied contexts on 2026-09-18. |
+| 2026-09-17 | Controlled oral translation, new active targets batch 22 | 5 | 1 | 4 | Continue the active-pool pass; retest put down, read over, read through, and ring back in varied contexts on 2026-09-19. |
+| 2026-09-17 | Controlled oral translation, new active targets batch 23 | 5 | 1 | 4 | Continue the active-pool pass; retest ring up, run across, run out, and run through in varied contexts on 2026-09-19. |
+| 2026-09-17 | Controlled oral translation, new active targets batch 24 | 5 | 3 | 2 | Continue the active-pool pass; retest see off and set about in varied contexts on 2026-09-19. |
+| 2026-09-17 | Controlled oral translation, new active targets batch 25 | 5 | 2 | 3 | Continue the active-pool pass; retest set off, settle down, and settle into in varied contexts on 2026-09-19. |
+| 2026-09-17 | Controlled oral translation, new active targets batch 26 | 5 | 2 | 3 | Continue the active-pool pass; retest show up, shut down, and sign up in varied contexts on 2026-09-19. |
+| 2026-09-17 | Controlled oral translation, new active targets batch 27 | 5 | 4 | 1 | Continue the active-pool pass; retest sit back in a varied context on 2026-09-19. |
+| 2026-09-21 | Controlled oral translation, supplemental expressions batch 1 | 5 | 5 | 0 | Complete the supplemental set with the three remaining expressions; review hiring-manager terminology, during, and inexperienced. |
+| 2026-09-21 | Controlled oral translation, supplemental expressions pass completion | 3 | 3 | 0 | Supplemental set complete: 8/8 target expressions recalled; resume the locked phrasal-verb active-pool pass. |
+| 2026-09-21 | Controlled oral translation, new active targets batch 28 | 5 | 2 | 3 | Continue the active-pool pass; retest stand by, stand up, and stand up for in varied contexts on 2026-09-23. |
+| 2026-09-21 | Controlled oral translation, new active targets batch 29 | 5 | 1 | 4 | Continue the active-pool pass; retest start over, stay away, stay out, and stick with in varied contexts on 2026-09-23. |
+| 2026-09-21 | Controlled oral translation, new active targets batch 30 | 5 | 4 | 1 | Continue the active-pool pass; retest take away in a varied context on 2026-09-23. |
+| 2026-09-21 | Controlled oral translation, new active targets batch 31 | 5 | 1 | 4 | Continue the active-pool pass; retest take out, talk into, talk over, and talk through in varied contexts on 2026-09-23. |
