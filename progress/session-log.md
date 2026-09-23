@@ -120,3 +120,8 @@ Append new sessions below. Preserve previous entries.
 | 2026-09-23 | Controlled oral translation, new active targets batch 34 | 5 | 3 | 2 | Continue the active-pool pass; retest walk away and walk out in varied contexts on 2026-09-25. |
 | 2026-09-23 | Controlled oral translation, new active targets batch 35 | 5 | 1 | 4 | Complete the active-pool pass with its final two targets; retest wear out, weed out, weigh up, and wind up in varied contexts on 2026-09-25. |
 | 2026-09-23 | Controlled oral translation, active-pass completion batch | 2 | 2 | 0 | Active pass complete: 79/177 correct on first attempt; begin wrong-answer-only review from the 73 expressions currently in the error pool. |
+| 2026-09-23 | Spaced oral wrong-answer review, pass 2 batch 1 | 5 | 0 | 5 | Continue with the next five untested error-pool items; keep get in, go back, go out, keep back, and keep out for the next review pass. |
+| 2026-09-23 | Spaced oral wrong-answer review, pass 2 batch 2 | 5 | 1 | 4 | Continue with the next five untested error-pool items; keep knock down, knock off, lay down, and lay out for the next review pass. |
+| 2026-09-23 | Spaced oral wrong-answer review, pass 2 batch 3 | 5 | 4 | 1 | Continue with the next five untested error-pool items; keep let off for the next review pass. |
+| 2026-09-23 | Spaced oral wrong-answer review, pass 2 batch 4 | 5 | 3 | 2 | Continue with the next five untested error-pool items; keep look around and look down for the next review pass. |
+| 2026-09-23 | Spaced oral wrong-answer review, pass 2 batch 5 | 5 | 1 | 4 | Continue with the next five untested error-pool items; keep make for, move back, move up, and pass on for the next review pass. |

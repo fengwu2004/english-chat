@@ -292,3 +292,12 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | hold on | 2026-09-14 | Controlled oral translation | spontaneous | Please hold on for a second, I will get back soon. |
 | hold out | 2026-09-14 | Controlled oral translation | spontaneous | Trapped climbers held out for two days until rescues arrived. |
 | keep away | 2026-09-14 | Controlled oral translation | spontaneous | Keep children away from the heat stove. |
+| keep up | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | I couldn't keep up with you as you spoke too fast. |
+| lead to | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | Lack of communication eventually led to serious misunderstanding. |
+| leave behind | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | I didn't find I had left my passport behind until I arrived at the airport. |
+| let in | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | It's cold outside, please let them in. |
+| let out | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | The teacher let the class out 10 minutes earlier. |
+| live on | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | She lived on very little money at college. |
+| look down on | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | Never look down on someone because of their career. |
+| lose out | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | Smaller Venders may lose out in the competition. |
+| move in | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | The new office is ready, and they decided to move in next week. |

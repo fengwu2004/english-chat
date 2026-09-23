@@ -12,24 +12,15 @@ Do not add new vocabulary that is absent from the locked source list.
 | go out | 2026-09-09 | Controlled oral translation | Target substitution | Used the natural “ate out” instead of the broader target “went out.” |
 | keep back | 2026-09-14 | Controlled oral translation | Target substitution / particle | Used “held the crowd off the building”; use “kept the crowd back from the building.” |
 | keep out | 2026-09-14 | Controlled oral translation | Target substitution | Used “keep away” instead of “keep out” for prohibiting entry to a dangerous area. |
-| keep up | 2026-09-15 | Controlled oral translation | Target substitution | Used “catch up with” instead of “keep up with” for following fast speech. |
 | knock down | 2026-09-15 | Controlled oral translation | Target substitution | Used “blew down” instead of the target “knocked down.” |
 | knock off | 2026-09-15 | Controlled oral translation | Target substitution / meaning | Used “pull off”; use “knock off early” for finishing work early. |
 | lay down | 2026-09-15 | Controlled oral translation | Target substitution | Used “set up” instead of “lay down” for establishing clear rules. |
 | lay out | 2026-09-15 | Controlled oral translation | Target substitution | Used “get across” instead of “lay out” for explaining a complete plan clearly. |
-| lead to | 2026-09-15 | Controlled oral translation | Target substitution | Used “bring on” instead of “lead to” for communication problems causing a misunderstanding. |
-| leave behind | 2026-09-15 | Controlled oral translation | Form / collocation | Used “lost my charger behind”; use “left my charger behind.” |
-| let in | 2026-09-16 | Controlled oral translation | Target substitution | Used “let them get in” instead of the more direct “let them in.” |
 | let off | 2026-09-16 | Controlled oral translation | Target substitution | Used “let him go” instead of “let him off with a warning.” |
-| let out | 2026-09-16 | Controlled oral translation | Particle / meaning | Used “let students off”; use “let the students out early.” |
-| live on | 2026-09-16 | Controlled oral translation | Target substitution | Used “got by” instead of “lived on very little money.” |
 | look around | 2026-09-16 | Controlled oral translation | Target substitution | Used “hang around” instead of “look around” before choosing an apartment. |
 | look down | 2026-09-16 | Controlled oral translation | Preposition / meaning | Wrote “looked down on the map”; use “looked down at the map” for the physical direction. |
-| look down on | 2026-09-16 | Controlled oral translation | Inseparable form | Wrote “look him down”; use “look down on him.” |
-| lose out | 2026-09-16 | Controlled oral translation | Target substitution | Used the natural “miss out on” instead of the target “lose out on.” |
 | make for | 2026-09-16 | Controlled oral translation | Target substitution | Used the already-mastered “head for” instead of the target “make for.” |
 | move back | 2026-09-16 | Controlled oral translation | Target substitution | Used “put off” instead of the target “move back” for rescheduling the meeting to a later date. |
-| move in | 2026-09-16 | Controlled oral translation | Preposition / form | Wrote “move in the new apartment”; use “move into the new apartment.” |
 | move up | 2026-09-16 | Controlled oral translation | Preposition / collocation | Wrote “move up as an area manager”; use “move up to area manager” or “move up into an area manager role.” |
 | pass on | 2026-09-16 | Controlled oral translation | Missing particle | Used “pass this message to Sarah”; use “pass this message on to Sarah.” |
 | pay back | 2026-09-16 | Controlled oral translation | Target substitution | Used “give back the money” instead of the target “pay back the money.” |
