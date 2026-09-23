@@ -70,3 +70,12 @@ Do not add new vocabulary that is absent from the locked source list.
 | talk into | 2026-09-21 | Controlled oral translation | Particle / form | Wrote “talked me in applying”; use “talked me into applying for the job.” |
 | talk over | 2026-09-21 | Controlled oral translation | Target substitution / missing object | Used “talk through” without an object; use “talk it over” for discussing a decision together. |
 | talk through | 2026-09-21 | Controlled oral translation | Target substitution | Used the natural “walked me through” instead of the target “talked me through” the setup process. |
+| throw out | 2026-09-23 | Controlled oral translation | Target substitution | Used the natural “throw away” instead of the target “throw out” for discarding the receipt. |
+| turn around | 2026-09-23 | Controlled oral translation | Object / collocation | Wrote “turned around the problem”; use “turned the company around” for reversing its poor situation. |
+| turn away | 2026-09-23 | Controlled oral translation | Target substitution / meaning | Used “turned us down” instead of “turned us away” when the full hotel refused entry. |
+| walk away | 2026-09-23 | Controlled oral translation | Target substitution / meaning | Used “turned away” instead of “walked away” for leaving an argument. |
+| walk out | 2026-09-23 | Controlled oral translation | Incomplete response | The response stopped after “Some audience” and did not produce the target expression. |
+| wear out | 2026-09-23 | Controlled oral translation | Verb form | Wrote “I was wore out”; use “Walking all day wore me out” or “I was worn out.” |
+| weed out | 2026-09-23 | Controlled oral translation | Target substitution / word choice | Used “wipe out unproper candidates”; use “weed out unsuitable candidates.” |
+| weigh up | 2026-09-23 | Controlled oral translation | Extra particle / spelling | Wrote “weigh up on pros and corns”; use “weigh up the pros and cons.” |
+| wind up | 2026-09-23 | Controlled oral translation | Target substitution | Used “finished off” instead of “wound up” for the meeting ending. |

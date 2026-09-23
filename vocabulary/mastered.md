@@ -271,6 +271,19 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | take after | 2026-09-21 | Controlled oral translation | spontaneous | She takes after her mum in humar. |
 | take back | 2026-09-21 | Controlled oral translation | spontaneous | I took back my words; it is unfair. |
 | talk out of | 2026-09-21 | Controlled oral translation | spontaneous | I tried to talk him out of resigning. |
+| tear down | 2026-09-23 | Controlled oral translation | spontaneous | The city government plan s to tear down the old building next year. |
+| think over | 2026-09-23 | Controlled oral translation | spontaneous | I need to think over the job invitation and then call you back. |
+| think through | 2026-09-23 | Controlled oral translation | spontaneous | We need to think through all the possible consequences before launching the new products. |
+| touch on | 2026-09-23 | Controlled oral translation | spontaneous | The report touched on the budget issue. |
+| try on | 2026-09-23 | Controlled oral translation | spontaneous | She tried on three skirts before going for one. |
+| turn back | 2026-09-23 | Controlled oral translation | spontaneous | We had to turn back as the road was closed. |
+| turn in | 2026-09-23 | Controlled oral translation | spontaneous | Please turn in the report by Friday. |
+| turn off | 2026-09-23 | Controlled oral translation | spontaneous | Please turn off the light before you are away. |
+| turn on | 2026-09-23 | Controlled oral translation | spontaneous | Please turn on the air conditioner as it is too hot. |
+| turn over | 2026-09-23 | Controlled oral translation | spontaneous | Please turn over the file and sign on it. |
+| warm up | 2026-09-23 | Controlled oral translation | spontaneous | The athletes warmed up for 10 minutes before the match. |
+| wipe out | 2026-09-23 | Controlled oral translation | spontaneous | The flood wiped out hundreds of houses in the area. |
+| work on | 2026-09-23 | Controlled oral translation | spontaneous | We are working on improving the level of client service. |
 | get up | 2026-09-09 | Controlled oral translation | spontaneous | I usually get up at 6 a.m. |
 | give in | 2026-09-09 | Controlled oral translation | spontaneous | He finally gave in after three hours argument. |
 | go up | 2026-09-09 | Controlled oral translation | spontaneous | The lent price will go up next year. |

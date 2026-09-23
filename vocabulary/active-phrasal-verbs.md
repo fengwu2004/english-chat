@@ -55,28 +55,5 @@
 
 ## T
 
--   tear down
--   think over
--   think through
--   throw out
--   touch on
--   try on
--   turn around
--   turn away
--   turn back
--   turn in
--   turn off
--   turn on
--   turn over
 
 ## W
-
--   walk away
--   walk out
--   warm up
--   wear out
--   weed out
--   weigh up
--   wind up
--   wipe out
--   work on
