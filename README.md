@@ -42,10 +42,15 @@ An item is tested only once in a complete pass. A wrong item moves to the error
 pool but is not tested again until the pass finishes. During wrong-answer review,
 Codex must not introduce new items.
 
+## Everyday expressions
+
+[日常遇到的常见表达](vocabulary/everyday-expressions.md) collects expressions
+from everyday reading, listening, and conversation, with examples, personal
+usage notes, and review status.
+
 ## OpenSpec use
 
 The permanent coaching behavior lives under `openspec/specs/`. Daily lessons
 do not need a new OpenSpec change proposal. Create a change only when you want
 to modify the coaching system itself—for example, changing the mastery rule or
 adding pronunciation scoring.
-
