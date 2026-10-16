@@ -301,3 +301,23 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | look down on | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | Never look down on someone because of their career. |
 | lose out | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | Smaller Venders may lose out in the competition. |
 | move in | 2026-09-23 | Spaced oral wrong-answer review | spontaneous | The new office is ready, and they decided to move in next week. |
+| pick out | 2026-09-28 | Spaced oral wrong-answer review | spontaneous | We have picked out the most promising three candidates from 12. |
+| pull away | 2026-09-28 | Spaced oral wrong-answer review | spontaneous | The taxi slowly pulled away from the curb and joined the flow. |
+| pull back | 2026-09-28 | Spaced oral wrong-answer review | spontaneous | The company decided to temporarily pull back from the project because the opposition was getting stronger. |
+| pull through | 2026-09-28 | Spaced oral wrong-answer review | spontaneous | The doctor believed she could pull through the serious operation. |
+| read over | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | Please read over the email before you send it. |
+| read through | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | I read through the entire contract last night. |
+| run out | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | We ran out of coffee halfway through the meeting. |
+| see off | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | We saw her off at the airport. |
+| set about | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | How did she set about dealing with clients' complaint? |
+| settle down | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | The kids finally settled down in several minutes. |
+| settle into | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | She quickly settled into the new job. |
+| sign up | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | I signed up for an online English course yesterday. |
+| sit back | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | Don't just sit back and wait the problem gets solved by others. |
+| stand up | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | Everybody stood up when the judge entered the room. |
+| stay away | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | Please stay away from the construction area as it is very dangerous. |
+| stay out | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | He stayed out until midnight last night. |
+| take away | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | What did you take away most from the training? |
+| take out | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | The boss took the whole team out for diner after the project got finished. |
+| talk over | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | Let's talk over the decision tonight. |
+| turn around | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | The new CEO turned the company around within a year. |

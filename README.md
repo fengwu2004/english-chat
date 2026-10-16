@@ -3,6 +3,15 @@
 This project turns a locked list of 355 phrasal and multi-word verbs into a
 repeatable writing and speaking programme.
 
+It also supports staged learning of common idioms and conventional expressions.
+The catalogue lives in `vocabulary/idioms.md`; learning rules live in
+`openspec/specs/idiom-learning/spec.md`; status and evidence live in
+`progress/idiom-log.md`. Begin with I001–I030 in six batches of five. Complete
+the pass, review errors, and check varied retrieval and spontaneous use before
+unlocking the next ten. Frequency bands are approximate learning priorities,
+not measured ranks. The 119 unique entries preserve the previous list's first
+30 items and remove its duplicate of “easier said than done.”
+
 ## One-time setup
 
 From the project root, install and initialize OpenSpec if it is not already
@@ -27,6 +36,8 @@ Open this folder as the working directory and use one of these requests:
 - `Give me a speaking task.`
 - `Continue the current round.`
 - `Start wrong-answer review.`
+- `开始第一阶段习语练习，每批五题。`
+- `继续当前习语阶段。`
 
 Codex should read `AGENTS.md`, the applicable specifications in
 `openspec/specs/`, and the current vocabulary and progress files before it

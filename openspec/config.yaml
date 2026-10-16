@@ -3,6 +3,9 @@ schema: spec-driven
 context: |
   Domain: personal English writing and speaking practice for a Chinese-speaking learner.
   Goal: activate a locked list of 355 long-studied phrasal and multi-word verbs.
+  Additional track: idioms and conventional expressions from vocabulary/idioms.md.
+  Idiom stages: I001–I030 first, then ten at a time after stage retrieval checks.
+  Idiom state and evidence live in progress/idiom-log.md, separate from phrasal-verb pools.
   Default batch: five Chinese-to-English items with one distinct target per item.
   Complete the full pass before wrong-answer-only review; do not repeat within a pass.
   Correct natural use leaves the active pool; errors enter the error pool for later review.

@@ -15,6 +15,15 @@ Before creating or assessing a lesson, read:
 3. `vocabulary/error-pool.md` and `vocabulary/mastered.md`.
 4. The relevant files under `progress/`.
 
+For idiom lessons, also read `openspec/specs/idiom-learning/spec.md`,
+`vocabulary/idioms.md`, and `progress/idiom-log.md`. The idiom catalogue is
+separate from the phrasal-verb pools. Start with I001–I030; expand in groups of
+ten only after completing the current stage and its retrieval checks. Keep
+idiom status and evidence in `progress/idiom-log.md`; do not move idioms into
+the phrasal-verb active, error, or mastered files. When no learning track is
+specified, continue the track active in this chat; ask which track only when
+the context is ambiguous. Creating the idiom plan does not start a lesson.
+
 The vocabulary list is locked. Do not introduce a target phrasal verb that is
 not present in the active, error, or mastered pool unless the learner explicitly
 asks for new material. Use mastered items only for later retrieval checks or
