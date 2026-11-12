@@ -8,17 +8,13 @@ Do not add new vocabulary that is absent from the locked source list.
 | Expression | Date | Task | Error type | Note |
 |---|---|---|---|---|
 | get in | 2026-09-09 | Controlled oral translation | Target substitution | Used the natural “get home” instead of the target “get in” for arriving home. |
-| go back | 2026-09-09 | Controlled oral translation | Target substitution | Used “came back” instead of “went back” for returning to the speaker’s hometown. |
 | go out | 2026-09-09 | Controlled oral translation | Target substitution | Used the natural “ate out” instead of the broader target “went out.” |
 | keep back | 2026-09-14 | Controlled oral translation | Target substitution / particle | Used “held the crowd off the building”; use “kept the crowd back from the building.” |
-| keep out | 2026-09-14 | Controlled oral translation | Target substitution | Used “keep away” instead of “keep out” for prohibiting entry to a dangerous area. |
 | knock down | 2026-09-15 | Controlled oral translation | Target substitution | Used “blew down” instead of the target “knocked down.” |
 | knock off | 2026-09-15 | Controlled oral translation | Target substitution / meaning | Used “pull off”; use “knock off early” for finishing work early. |
 | lay down | 2026-09-15 | Controlled oral translation | Target substitution | Used “set up” instead of “lay down” for establishing clear rules. |
 | lay out | 2026-09-15 | Controlled oral translation | Target substitution | Used “get across” instead of “lay out” for explaining a complete plan clearly. |
 | let off | 2026-09-16 | Controlled oral translation | Target substitution | Used “let him go” instead of “let him off with a warning.” |
-| look around | 2026-09-16 | Controlled oral translation | Target substitution | Used “hang around” instead of “look around” before choosing an apartment. |
-| look down | 2026-09-16 | Controlled oral translation | Preposition / meaning | Wrote “looked down on the map”; use “looked down at the map” for the physical direction. |
 | make for | 2026-09-16 | Controlled oral translation | Target substitution | Used the already-mastered “head for” instead of the target “make for.” |
 | move back | 2026-09-16 | Controlled oral translation | Target substitution | Used “put off” instead of the target “move back” for rescheduling the meeting to a later date. |
 | move up | 2026-09-16 | Controlled oral translation | Preposition / collocation | Wrote “move up as an area manager”; use “move up to area manager” or “move up into an area manager role.” |
@@ -45,8 +41,6 @@ Do not add new vocabulary that is absent from the locked source list.
 | throw out | 2026-09-23 | Controlled oral translation | Target substitution | Used the natural “throw away” instead of the target “throw out” for discarding the receipt. |
 | turn away | 2026-09-23 | Controlled oral translation | Target substitution / meaning | Used “turned us down” instead of “turned us away” when the full hotel refused entry. |
 | walk away | 2026-09-23 | Controlled oral translation | Target substitution / meaning | Used “turned away” instead of “walked away” for leaving an argument. |
-| walk out | 2026-09-23 | Controlled oral translation | Incomplete response | The response stopped after “Some audience” and did not produce the target expression. |
 | wear out | 2026-09-23 | Controlled oral translation | Verb form | Wrote “I was wore out”; use “Walking all day wore me out” or “I was worn out.” |
-| weed out | 2026-09-23 | Controlled oral translation | Target substitution / word choice | Used “wipe out unproper candidates”; use “weed out unsuitable candidates.” |
 | weigh up | 2026-09-23 | Controlled oral translation | Extra particle / spelling | Wrote “weigh up on pros and corns”; use “weigh up the pros and cons.” |
 | wind up | 2026-09-23 | Controlled oral translation | Target substitution | Used “finished off” instead of “wound up” for the meeting ending. |

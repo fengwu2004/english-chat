@@ -106,6 +106,43 @@ not 35 failed questions from a pre-existing test bank.
 - Next formal review from October 29 in changed contexts, with later checks
   around October 31 and November 3 as needed. Prompts not yet presented.
 
+## Missed-only pass 2
+
+Learner requested review on October 28, one day earlier than planned.
+
+| ID | Attempt date | Result | Evidence / correction |
+|---|---|---|---|
+| C05 | 2026-10-28 | Missed | pay for rent fee for three months; use pay three months' rent in advance |
+| C06 | 2026-10-28 | Correct | lead to headaches; can better matches possibility than will |
+| C16 | 2026-10-28 | Correct | every weekend for two months; prepare for, library spelling/article and past tense separate |
+| C23 | 2026-10-28 | Missed | while we were getting to the airport changes arrival-time meaning; use when we arrived at/reached the airport; flight not plane canceled |
+| C28 | 2026-10-28 | Missed | three days behind the schedule; remove the; current state is three days behind schedule |
+
+- Complete: 2/5 correct. Remaining: C05, C23, C28 (three items only).
+- Next independent varied review around October 30, November 1 and November 4;
+  do not pad to five with new targets or immediate retests.
+- Across passes, 32/35 have at least one correct independent target attempt;
+  this is not a claim of durable or spontaneous mastery.
+
+## Missed-only pass 3
+
+Learner requested a new review on October 29, one day earlier than planned.
+Score the first attempts; the model supplied after sentence 1 is repair support.
+
+| ID | Attempt date | Result | Evidence / correction |
+|---|---|---|---|
+| C05 | 2026-10-29 | Correct | pay rent for two months accepted; in advance placed after before we moved in is awkward; model supplied for word-order repair, not a second scored attempt |
+| C23 | 2026-10-29 | Correct | When I got to the hotel, the front desk had already closed |
+| C28 | 2026-10-29 | Correct | fell four days behind schedule because of equipment failure; is currently closer to current-state prompt |
+
+- Complete: 3/3 target usages accepted; no remaining missed IDs in this pass.
+- All 35 checklist items now have at least one accepted independent target
+  attempt across passes. This does not establish durable spontaneous mastery.
+- Fixed translation checklist complete. Do not add more translation targets.
+- Next optional step: a short target-free account of a project difficulty to
+  check transfer into connected speech; delayed mixed checks around October 31,
+  November 2 and November 5 as needed, kept distinct from this completed pass.
+
 ## Separate spelling reminders (not counted)
 
 hard work; policy versus police; pressure; period; sign versus assign.

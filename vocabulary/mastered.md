@@ -321,3 +321,9 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | take out | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | The boss took the whole team out for diner after the project got finished. |
 | talk over | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | Let's talk over the decision tonight. |
 | turn around | 2026-09-29 | Spaced oral wrong-answer review | spontaneous | The new CEO turned the company around within a year. |
+| walk out | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | A few employees walked out of the meeting to express protest. |
+| weed out | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | The first round is going to weed out unqualified applicants. |
+| go back | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | I need to go back to office as my computer was left behind. |
+| keep out | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | There is a notice on the door which tells us to keep out of the construction site. |
+| look around | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | Let's look around the shop before buying. |
+| look down | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | She looked down at the map in her hands. |
