@@ -327,3 +327,27 @@ named or strongly cued; `spontaneous` means it was independently recalled.
 | keep out | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | There is a notice on the door which tells us to keep out of the construction site. |
 | look around | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | Let's look around the shop before buying. |
 | look down | 2026-11-12 | Spaced oral wrong-answer review | spontaneous | She looked down at the map in her hands. |
+| pay back | 2026-11-13 | Spaced oral wrong-answer review | spontaneous | I will pay back the money as soon as I get my pay on Friday. |
+| put down | 2026-11-16 | Spaced oral wrong-answer review (text) | spontaneous | Don't put down a person in front of his colleagues. |
+| set off | 2026-11-18 | Spaced oral wrong-answer review (text) | spontaneous | We set off before daybreak to avoid morning traffic congestion. |
+| show up | 2026-11-18 | Spaced oral wrong-answer review (text) | spontaneous | He agreed to help but didn't show up. |
+| stand up for | 2026-11-20 | Spaced oral wrong-answer review (text) | spontaneous | We should stand up for employees who are treated unfairly. |
+| stick with | 2026-11-20 | Spaced oral wrong-answer review (text) | spontaneous | Although there were other choices, we decided to stick with current vender. |
+| talk through | 2026-11-20 | Spaced oral wrong-answer review (text) | spontaneous | The technician talked me through the setting process step by step on the phone. |
+| turn away | 2026-11-20 | Spaced oral wrong-answer review (text) | spontaneous | The front desk had to turn away guests who didn't have a reservation. |
+| walk away | 2026-11-20 | Spaced oral wrong-answer review (text) | spontaneous | He walked away instead of arguing any more. |
+| weigh up | 2026-11-20 | Spaced oral wrong-answer review (text) | spontaneous | She wants to weigh up the pros and cons before accepting the job. |
+| get in | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | What time did you get in last night? |
+| go out | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | She likes go out with friends at weekends. |
+| keep back | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | The police requested people to keep back from the accident. |
+| knock down | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | The truck knocked down a pole near the road. |
+| knock off | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | Let's knock off at 5 p.m. as there isn't much work. |
+| lay down | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | The company laid down confirmed rules about AI tools using. |
+| lay out | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | The manager laid out the plan for next three months to the team. |
+| let off | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | The police let him off with a warning as is was his first time to disobey the rules. |
+| make for | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | Everyone made for the nearest exit while hearing the fire alarm. |
+| move back | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | We moved back the meeting from Wednesday to Friday as our client wasn't available recently. |
+| move up | 2026-11-23 | Spaced oral wrong-answer review (text) | spontaneous | He hopes to move up to the department manager next year. |
+| talk into | 2026-11-26 | Spaced oral wrong-answer review (text) | spontaneous | She talked me into taking part in the training course. |
+| wear out | 2026-11-26 | Spaced oral wrong-answer review (text) | spontaneous | The six hours meeting without a stop really wore us out. |
+| wind up | 2026-11-26 | Spaced oral wrong-answer review (text) | spontaneous | The manager wound up the meeting after we discussed budget. |
